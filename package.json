@@ -1,0 +1,16 @@
+{
+  "name": "fugu16",
+  "version": "1.0.0",
+  "description": "All to need to do is npm i and node fugu.js and You can go to localhost:3000 on your phone! Any device supported!!",
+  "main": "fugu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
